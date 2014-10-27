@@ -8,6 +8,15 @@
     margin: 0px auto;
 }
 
+.snap2pay_home_image {
+    background-image: url(../styles/images/appbuilder.png);
+    background-repeat: no-repeat;
+    width: 320px;
+    height: 250px;
+    display: block;
+    margin: 0px auto;
+}
+
 /* LOGIN VIEW STYLES */
 .login-button {
     margin: 0 auto;
